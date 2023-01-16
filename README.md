@@ -8,4 +8,5 @@ Whatsapp messages are sent via pywhatkit - pywhatkit requires you to be signed i
 The python scripts require a few personal details that you'll need to add to configure.py, rename the sample_configure.py and add your details
 
 The code is based on an write-up that I found from assemblyai ... although I've stuck with Twilio's transcription service and not invoked AssemblyAI's transcription method at this time
+
 https://www.assemblyai.com/blog/how-to-build-a-burner-phone-with-voicemail-in-python
